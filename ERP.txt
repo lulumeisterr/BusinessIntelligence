@@ -1,7 +1,7 @@
 A sigla ERP significa “Planejamento de Recursos Empresariais”. Enterprise Resource Planing
 
 Objetivo do ERP é facilitar o fluxo de informações de uma organização para otimizar a de tomada de decisão de uma organização
- 
+
 - VENDAS
 - ATENDIMENTO AO CLIENTE
 - VENDEDOR EXTERNO
