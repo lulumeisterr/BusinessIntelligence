@@ -1,0 +1,76 @@
+A sigla ERP significa “Planejamento de Recursos Empresariais”. Enterprise Resource Planing
+
+Objetivo do ERP é facilitar o fluxo de informações de uma organização para otimizar a de tomada de decisão de uma organização
+ 
+- VENDAS
+- ATENDIMENTO AO CLIENTE
+- VENDEDOR EXTERNO
+- EQUIPE DE RH
+- EQUIPE DE GESTAO DE TAREFA
+- EQUIPE DE GESTAO DE PROJETO TUDO DENTRO DE UM SW
+
+
+CARACTERÍSTICAS PRINCIPAIS DO ERP
+
+• Controles Operacionais
+• Transações do dia-a-dia
+• Relatórios Operacionais
+• Dados Integrados
+• Gestão Integrada
+• Otimização de Processos
+
+
+VANTAGENS ERP
+
+° Para Gerar controle e padronização de processos em sua empresa , como relatorios 
+emissao de notas ficais etc... A empresa economiza tempo e melhora a sua produtividade.
+
+° Visão é redução dos erros , pois o gestor encherga tudo atraves de um SW é consegue ver
+quais partes da empresa estão gerando dando , sendo possivel corrigir muito mais rapido , tendo
+uma tomada de decisão rapida.
+
+° Gestao baseada em processo Permitir que a empresa cresca sem mudar o sistema
+
+
+FUNCIONALIDADE
+Diz respeito as funções que possui, suas particularidades, diferentes
+possibilidades de uso e áreas em que melhor se adapta.
+
+MÓDULOS
+São subconjuntos de funções que podem ser adquiridos e implementados
+separadamente, como PCP, Faturamento. Todavia, essa nunca é uma boa
+estratégia (a aquisição de módulos), embora a implantação possa se dar
+por etapas
+
+PARAMETRIZAÇÃO
+É o processos de adequação da funcionalidade de um sistema ERP a uma
+determinada empresa através da definição dos valores de parâmetros já
+disponibilizados no próprio sistema. Um bom ERP possui centenas de
+parâmetros, que permitem o ajuste do ERP às necessidades da empresa
+sem nenhuma customização.								
+				
+
+CUSTOMIZAÇÃO
+É o processo de modificação de um sistema ERP para adequá-lo as
+situações empresariais especificas. Deve ser cuidadosamente avaliada,
+sob risco de se adquirir um ERP e acabar-se tendo um sistema integrado.
+
+CONFIGURAÇÃO
+É o conjunto total de parâmetros do sistema após a sua definição,
+englobando o conjunto das opções de funcionamento das diferentes
+funções de um sistema ERP.
+
+
+LOCALIZAÇÃO
+Corresponde à adaptação do sistema desenvolvido em um país para
+utilização em outro. Essa adequação se faz necessária para adequação às
+leis e procedimentos comerciais específicos locais. Os melhores sistemas
+admitem parametrização de moeda e idioma, por exemplo. Existe o risco
+da localização ser encarada como customização, que representa custos
+altos e riscos de alterações fortes no sistema.					
+Sistema modular que tem suas raízes no MRP (Planejamento de
+Recursos de Materiais) e está integrado a uma base de dados. São
+sistemas integrados que abrangem todas as áreas da empresa, de forma
+que um único evento que tenha dado origem à execução do processo, seja
+trabalhado pelas áreas que tenham alguma responsabilidade sobre ele.
+
