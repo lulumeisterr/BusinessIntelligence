@@ -9,7 +9,8 @@ Business Intelligence (BI) -       inteligência empresarial. Isto significa que
 				   Analisar evidências e todas as tarefas para um bom raciocinio e 
 			           ter uma boa perspectiva sobre a situação e saber o'que fazer para melhores ganhos. Assim
 				   aumentará a tomada de decisões para o futuro. mas para se obter isso o projeto necessita
-				   de indicadores de desempenho.
+				   de indicadores de desempenho. Detalhe BI Não pode ser simplesmente um exercicio técnico da
+				   area de Tecnologia da Informação.
 
 		
 			         O' que é uma warehouse 
@@ -56,13 +57,10 @@ https://www.significadosbr.com.br/franquia
 
 Gestão estratégica :  é um tempo amplo que abrange os estagios inicias de determinação da missão e os objetivos da organização.
 
-Objetivo está relacionado com alvo a ser alcançado , o Objetivo é o destino
-
-Estratégia está relacionada com a maneira que vamos utilizar para alcançar o alvo desejado, enfim o objetivo. , Estratégia é o caminho
+Estratégia está relacionada com a maneira que vamos utilizar para alcançar o alvo desejado, enfim o objetivo. , ou seja
+ela se compõe de muitas taticas simultâneas e integradas entre si.
 
 Estratégia é onde você alinha sua mente com o seus objetivos afim de alcançar futuros resultados ou seja Visão ampla dos objetivos a serem atingidos.
-
-Estratégia tem relação com a estrategia da empresa , de seues gestores e com a compreensão
 
 TIPOS DE ESTRATEGIA
 
@@ -70,10 +68,12 @@ LIDERANÇA DE CUSTO - CAPACIDADE DE OFERECER DESCONTOS DE UMA FORMA LUCRATIVA
 DIFERENCIAÇÃO - REALIZADA ATRAVES DAS CARACTERISTICAS DA OFERTA
 SEGMENTAÇÃO - ATUAÇÃO EM NICHOS DE MERCADO
 
+Tatica : A diposição e distruição dos envolvidos pela melhor oportunidade de desenvolvimento afim de alcançar partes dos objetivos.
 
 O objetivo é o alvo que você quer alcançar. A estratégia será a maneira, caminho a ser percorrido, a fim de alcançar o objetivo.
+Objetivo está relacionado com alvo a ser alcançado , o Objetivo é o destino
 
-Tatica : A diposição e distruição dos envolvidos pela melhor oportunidade de desenvolvimento afim de alcançar partes dos objetivos.
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 						  PDCA
@@ -89,8 +89,8 @@ MRPII -
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SWOT - Ajuda a definir a sua estratégia
-
+SWOT - Ajuda a definir a sua estratégia e é uma ferramenta utilizada para fazer análise de cenario ou ambiente sendo adotada como 
+planejamento estrategico.
 
 Forças e fraquezeas são relacionados ao ambiente interno da empresa
 
