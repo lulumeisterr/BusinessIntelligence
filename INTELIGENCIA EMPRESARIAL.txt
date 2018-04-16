@@ -1,26 +1,21 @@
-Business Intelligence (BI) -       inteligÍncia empresarial. Isto significa que È um mÈtodo que visa ajudar as 
-	                           empresas a tomar as decisıes inteligentes, mediante dados e informaÁıes. E
-                                   Necessita que vc tenha um passado , para que vocÍ consiga informaÁıes para o futuro ,
-			           ou seja ele foi feito para tomada de decisıes.
+Business Intelligence (BI) -       intelig√™ncia empresarial. Isto significa que √© um m√©todo que visa ajudar as 
+	                           empresas a tomar as decis√µes inteligentes, mediante dados e informa√ß√µes. E
+                                   Necessita que vc tenha um passado , para que voc√™ consiga informa√ß√µes para o futuro ,
+			           ou seja ele foi feito para tomada de decis√µes.
 				
-			     BI - È uma ferramenta que generaliza todo um fluxo de trabalho no qual
-			           vocÍ pode medir a qualidade que tras um relatorio para ter um negocio
-				   inteligente que aumenta a tomada de decisıes para o futuro.
+			     BI - √© uma ferramenta que aumentar o valor do seu negocio e generaliza todo um fluxo de trabalho 
+			     	   no qual voc√™ pode medir a qualidade que tras um relatorio para ter um negocio
+				   inteligente e comparar as vantagens competitivas e ver valor do seu negocio onde
+				   Analisar evid√™ncias e todas as tarefas para um bom raciocinio e 
+			           ter uma boa perspectiva sobre a situa√ß√£o e saber o'que fazer para melhores ganhos. Assim
+				   aumentar√° a tomada de decis√µes para o futuro. mas para se obter isso o projeto necessita
+				   de indicadores de desempenho.
 
-			         ∞ Analisar evidÍncias e todas as tarefas para um bom raciocinio e 
-			           ter uma boa perspectiva sobre a situaÁ„o e saber o'que fazer 
-			           para melhores ganhos.
+		
+			         O' que √© uma warehouse 
 
-			         O BI aumentar o valor do seu negocio "exemplo de valores iguais , 
-			           comparar as vantagens competitivas e ver valor do seu negocio"
-			           assim como vocÍ obtÈm vantagens e analise
-			           para desenvolver tarefas estrateicas;
- 
-
-			         O' que È uma warehouse 
-
-			          Basicamente, È um Sistema de computadores produtivo onde vocÍ ganha tempo e dinheiro 
-			          onde ficam guardadas todas as informaÁıes da empresa Nele, 
+			          Basicamente, √© um Sistema de computadores produtivo onde voc√™ ganha tempo e dinheiro 
+			          onde ficam guardadas todas as informa√ß√µes da empresa Nele, 
 				  os executivos podem obter, de modo imediato, respostas para as perguntas.
  				  Evitando gastos desnecessarios
 
@@ -30,68 +25,93 @@ Business Intelligence (BI) -       inteligÍncia empresarial. Isto significa que 
 FILME - FOME DE PODER
 https://www.significadosbr.com.br/franquia
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-							           Aula     16/02/18
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- -              N„o basta o investimento e nem se vc tiver a ideia OU estiver sem o dinheiro , 
-		È a mesma coisa de vocÍ ter toda a infra-estrutura mas
-                n„o ter o conhecimento , o Poder para fazer o'que deve ser feito.
+----------------------------------------------------------------------------------------------------------------------------------------
+						  Aula     16/02/18
+----------------------------------------------------------------------------------------------------------------------------------------
 
-               ∞ Um relatorio È informaÁıes , graficos , estatisticas que apartir delas dÍ para fazer tomadas de decisıes				
+ -              N√£o basta o investimento e nem se vc tiver a ideia OU estiver sem o dinheiro , 
+		√© a mesma coisa de voc√™ ter toda a infra-estrutura mas
+                n√£o ter o conhecimento , o Poder para fazer o'que deve ser feito.
 
-	       ∞ No BI h· uma duplicaÁ„o de criaÁ„o de historicos apenas para relatorio , que seja efetivo e rapido
+               ¬∞ Um relatorio √© informa√ß√µes , graficos , estatisticas que apartir delas d√™ para fazer tomadas de decis√µes				
+
+	       ¬∞ No BI h√° uma duplica√ß√£o de cria√ß√£o de historicos apenas para relatorio , que seja efetivo e rapido
 	
-		Tatica : AÁıes particulares para se atingir partes do objetivo
-		O que È estrategia ? Vis„o ampla dos objetivos a serem atingidos
+		Tatica : A√ß√µes particulares para se atingir partes do objetivo
+		O que √© estrategia ? Vis√£o ampla dos objetivos a serem atingidos
     
 
-		È ter ponto de partida , mas so acontece quando eu tenho um passado analisado para ter um ponto de partida para recrutar
+		√© ter ponto de partida , mas so acontece quando eu tenho um passado analisado para ter um ponto de partida para recrutar
 		os objeticos especificos e chegar no objetivo final.
 
-					  objetivos especificos de como realizar , 1∞ rever o'que faz 
+					  objetivos especificos de como realizar , 1¬∞ rever o'que faz 
 					  objetivo geral , que seria a onde eu quero chegar 
 					  
 
-	       ∞ Estrategica que as empresas utilizaÁ„o : Elas mesmas se prejudicam para colher algo melhor para o objetivo principal
+	       ¬∞ Estrategica que as empresas utiliza√ß√£o : Elas mesmas se prejudicam para colher algo melhor para o objetivo principal
 							  Persistencia de como chegar , se organizar e planejar para o objetivo principal
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
+						Gest√£o estatregica
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-	
-						Gest„o estratÈgica :  
+Gest√£o estrat√©gica :  √© um tempo amplo que abrange os estagios inicias de determina√ß√£o da miss√£o e os objetivos da organiza√ß√£o.
 
-Objetivo est· relacionado com alvo a ser alcanÁado , o Objetivo È o destino
+Objetivo est√° relacionado com alvo a ser alcan√ßado , o Objetivo √© o destino
 
-EstratÈgia est· relacionada com a maneira que vamos utilizar para alcanÁar o alvo desejado, enfim o objetivo. , EstratÈgia È o caminho
+Estrat√©gia est√° relacionada com a maneira que vamos utilizar para alcan√ßar o alvo desejado, enfim o objetivo. , Estrat√©gia √© o caminho
 
-O objetivo È o alvo que vocÍ quer alcanÁar. A estratÈgia ser· a maneira, caminho a ser percorrido, a fim de alcanÁar o objetivo.
+Estrat√©gia √© onde voc√™ alinha sua mente com o seus objetivos afim de alcan√ßar futuros resultados ou seja Vis√£o ampla dos objetivos a serem atingidos.
 
-EstratÈgia È onde vocÍ alinha sua mente com o seus objetivos afim de alcanÁar futuros resultados ou seja Vis„o ampla dos objetivos a serem atingidos.
+Estrat√©gia tem rela√ß√£o com a estrategia da empresa , de seues gestores e com a compreens√£o
 
-Tatica : A diposiÁ„o e distruiÁ„o dos envolvidos pela melhor oportunidade de desenvolvimento afim de alcanÁar partes dos objetivos.
+TIPOS DE ESTRATEGIA
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-SWOT - Ajuda a definir a sua estratÈgia
+LIDERAN√áA DE CUSTO - CAPACIDADE DE OFERECER DESCONTOS DE UMA FORMA LUCRATIVA
+DIFERENCIA√á√ÉO - REALIZADA ATRAVES DAS CARACTERISTICAS DA OFERTA
+SEGMENTA√á√ÉO - ATUA√á√ÉO EM NICHOS DE MERCADO
 
 
-ForÁas e fraquezeas s„o relacionados ao ambiente interno da empresa
+O objetivo √© o alvo que voc√™ quer alcan√ßar. A estrat√©gia ser√° a maneira, caminho a ser percorrido, a fim de alcan√ßar o objetivo.
 
-S - Strengths (ForÁas) - (pontos Fracos) - Est· relacionada ‡s vantagens que sua empresa possui em relaÁ„o aos concorrentes.
-W - Weaknesses (fraquezas ) - (pontos Fracos) - As fraquezas s„o as aptidıes que interferem ou prejudicam de algum modo o andamento do negÛcio.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Oportunidades e ameaÁas , s„o de caracter externo que nao dependem da empresa como concorrencia , legislaÁ„o etc.
+Tatica : A diposi√ß√£o e distrui√ß√£o dos envolvidos pela melhor oportunidade de desenvolvimento afim de alcan√ßar partes dos objetivos.
 
-O - Opportunities (Oportunidade) -  S„o forÁas externas que influenciam positivamente a empresa. N„o existe controle sobre essas forÁas, pois
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+						  PDCA
+
+O Ciclo PDCA ou SDCA, significa Plan, Do, Check, Action (Planejar, Fazer, Verificar e Agir). Esse m√©todo tem a fun√ß√£o de garantir que a empresa organize seus processos, n√£o importando a sua natureza.
+
+1 - Na primeira etapa ja determinasse o ciclo PDCA , e devem ser estabelicidos os objetivos e as metas
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+MRP -
+CRM -
+MRPII -
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+SWOT - Ajuda a definir a sua estrat√©gia
+
+
+For√ßas e fraquezeas s√£o relacionados ao ambiente interno da empresa
+
+S - Strengths (For√ßas) - (pontos Fracos) - Est√° relacionada √†s vantagens que sua empresa possui em rela√ß√£o aos concorrentes.
+W - Weaknesses (fraquezas ) - (pontos Fracos) - As fraquezas s√£o as aptid√µes que interferem ou prejudicam de algum modo o andamento do neg√≥cio.
+----------------------------------------------------------------------------------------------------------------------------------------
+Oportunidades e amea√ßas , s√£o de caracter externo que nao dependem da empresa como concorrencia , legisla√ß√£o etc.
+
+O - Opportunities (Oportunidade) -  S√£o for√ßas externas que influenciam positivamente a empresa. N√£o existe controle sobre essas for√ßas, pois
 elas podem ocorrer de diversas formas.
 
-T - Threads (AmeaÁas) - As ameaÁas tambÈm podem significar os medos que existem por parte da gest„o da empresa.
+T - Threads (Amea√ßas) - As amea√ßas tamb√©m podem significar os medos que existem por parte da gest√£o da empresa.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+A miss√£o , valores e miss√£o √© fundamental para o planejamento estrat√©gico da empresa , ou seja as
+a√ß√µes necessarias para que a organiza√ß√£o consiga alcam√ßar o seus objetivos.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Miss„o - N„o pode ser impossivel , ela deve ser a raz„o de ser do seu negocio , ela liga-se diretamente ao seus objetivos institucionais
+Miss√£o - N√£o pode ser impossivel , ela deve ser a raz√£o de ser do seu negocio , ela liga-se diretamente ao seus objetivos institucionais
 
-Vis„o - È a situaÁ„o que a empresa deseja chegar em um determinado periodo de tempo , ou seja ela È um conjunto de objetivos a conquistar .
-ou seja deve se realizar a seguinte pergunta , como a sua empresta quer est·r a 10 anos 
+Vis√£o - √© a situa√ß√£o que a empresa deseja chegar em um determinado periodo de tempo , ou seja ela √© um conjunto de objetivos a conquistar .
+ou seja deve se realizar a seguinte pergunta , como a sua empresta quer est√°r a 10 anos 
 
-Valor - S„o os ideias como atitude , comportamento e resultados que devem estar presente nos funcionarios e aÁıes da empresa com cliente , fornecedores etc;
+Valor - S√£o os ideias como atitude , comportamento e resultados que devem estar presente nos funcionarios e a√ß√µes da empresa com cliente , fornecedores etc; EX: ETICA , INDEPENDENCIA , PROFISSIONALISMO E RESPONSABILIDADE SOCIAL
+
