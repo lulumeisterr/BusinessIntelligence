@@ -83,9 +83,14 @@ O Ciclo PDCA ou SDCA, significa Plan, Do, Check, Action (Planejar, Fazer, Verifi
 1 - Na primeira etapa ja determinasse o ciclo PDCA , e devem ser estabelicidos os objetivos e as metas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-MRP -
-CRM -
-MRPII -
+MRP - Planejamento das Necessidades de Materiais , permite calcular a quantidade de materiais que serão necessários e em que tempo, a partir dos pedidos de venda em carteira 
+
+MRPII - Planejamento dos Recursos de Manufatura -  calcular e analisar de todos os parâmetros que determinam a produção de
+um determinado produto, e verificar os recursos técnicos e humanos disponíveis para o atendimento da produção.
+
+CRM - 
+
+
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
