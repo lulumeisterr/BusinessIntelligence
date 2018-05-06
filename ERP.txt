@@ -1,76 +1,106 @@
-A sigla ERP significa ìPlanejamento de Recursos Empresariaisî. Enterprise Resource Planing
+A sigla ERP significa ‚ÄúPlanejamento de Recursos Empresariais‚Äù. Enterprise Resource Planing
 
-Objetivo do ERP È facilitar o fluxo de informaÁıes de uma organizaÁ„o para otimizar a de tomada de decis„o de uma organizaÁ„o
+Objetivo do ERP √© facilitar o fluxo de informa√ß√µes de uma organiza√ß√£o para otimizar a de tomada de decis√£o de uma organiza√ß√£o
+contendo processos funcionais que abrange o erp.
 
-- VENDAS
-- ATENDIMENTO AO CLIENTE
-- VENDEDOR EXTERNO
-- EQUIPE DE RH
-- EQUIPE DE GESTAO DE TAREFA
-- EQUIPE DE GESTAO DE PROJETO TUDO DENTRO DE UM SW
+Financeiro 
+
+- Movimenta√ß√£o das Carteiras de T√≠tulos a Pagar e Receber
 
 
-CARACTERÕSTICAS PRINCIPAIS DO ERP
+Contabilidade
 
-ï Controles Operacionais
-ï TransaÁıes do dia-a-dia
-ï RelatÛrios Operacionais
-ï Dados Integrados
-ï Gest„o Integrada
-ï OtimizaÁ„o de Processos
+ -Emiss√£o dos documentos legais: Raz√£o, Di√°rio, Balan√ßo, Balancete, Demonstrativo de Lucros e Perdas
+- Gera√ß√£o dos Centros de Custos
+
+Estoque
+
+- Emiss√£o de Solicita√ß√£o de Compra
+- Movimenta√ß√£o dos itens
+
+Compras
+
+- Gera√ß√£o de Pedidos de Compra
+- An√°lise e sele√ß√£o de fornecedores (desempenho)
+
+VENDAS (FATURAMENTO)
+
+- Movimenta√ß√£o dos produtos acabados
+- Gera√ß√£o dos Pedidos de Venda
+- Gera√ß√£o das Notas Fiscais
+
+RECURSOS HUMANOS (FOLHA DE PAGAMENTO)
+
+   Movimenta√ß√£o dos funcion√°rios
+ÔÇß C√°lculo e gera√ß√£o da folha de pagamento
+ÔÇß C√°lculo de f√©rias e 13¬∫ sal√°rio
+ÔÇß C√°lculo de indeniza√ß√µes trabalhistas
+ÔÇß Controle dos encargos sociais (INSS, FGTS, outros)
+ÔÇß Controle das horas produtivas e improdutivas
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+CARACTER√çSTICAS PRINCIPAIS DO ERP
+
+‚Ä¢ Controles Operacionais
+‚Ä¢ Transa√ß√µes do dia-a-dia
+‚Ä¢ Relat√≥rios Operacionais
+‚Ä¢ Dados Integrados
+‚Ä¢ Gest√£o Integrada
+‚Ä¢ Otimiza√ß√£o de Processos
 
 
 VANTAGENS ERP
 
-∞ Para Gerar controle e padronizaÁ„o de processos em sua empresa , como relatorios 
+¬∞ Para Gerar controle e padroniza√ß√£o de processos em sua empresa , como relatorios 
 emissao de notas ficais etc... A empresa economiza tempo e melhora a sua produtividade.
 
-∞ Vis„o È reduÁ„o dos erros , pois o gestor encherga tudo atraves de um SW È consegue ver
-quais partes da empresa est„o gerando dando , sendo possivel corrigir muito mais rapido , tendo
-uma tomada de decis„o rapida.
+¬∞ Vis√£o √© redu√ß√£o dos erros , pois o gestor encherga tudo atraves de um SW √© consegue ver
+quais partes da empresa est√£o gerando dando , sendo possivel corrigir muito mais rapido , tendo
+uma tomada de decis√£o rapida.
 
-∞ Gestao baseada em processo Permitir que a empresa cresca sem mudar o sistema
+¬∞ Gestao baseada em processo Permitir que a empresa cresca sem mudar o sistema
 
 
 FUNCIONALIDADE
-Diz respeito as funÁıes que possui, suas particularidades, diferentes
-possibilidades de uso e ·reas em que melhor se adapta.
+Diz respeito as fun√ß√µes que possui, suas particularidades, diferentes
+possibilidades de uso e √°reas em que melhor se adapta.
 
-M”DULOS
-S„o subconjuntos de funÁıes que podem ser adquiridos e implementados
-separadamente, como PCP, Faturamento. Todavia, essa nunca È uma boa
-estratÈgia (a aquisiÁ„o de mÛdulos), embora a implantaÁ„o possa se dar
+M√ìDULOS
+S√£o subconjuntos de fun√ß√µes que podem ser adquiridos e implementados
+separadamente, como PCP, Faturamento. Todavia, essa nunca √© uma boa
+estrat√©gia (a aquisi√ß√£o de m√≥dulos), embora a implanta√ß√£o possa se dar
 por etapas
 
-PARAMETRIZA«√O
-… o processos de adequaÁ„o da funcionalidade de um sistema ERP a uma
-determinada empresa atravÈs da definiÁ„o dos valores de par‚metros j·
-disponibilizados no prÛprio sistema. Um bom ERP possui centenas de
-par‚metros, que permitem o ajuste do ERP ‡s necessidades da empresa
-sem nenhuma customizaÁ„o.								
+PARAMETRIZA√á√ÉO
+√â o processos de adequa√ß√£o da funcionalidade de um sistema ERP a uma
+determinada empresa atrav√©s da defini√ß√£o dos valores de par√¢metros j√°
+disponibilizados no pr√≥prio sistema. Um bom ERP possui centenas de
+par√¢metros, que permitem o ajuste do ERP √†s necessidades da empresa
+sem nenhuma customiza√ß√£o.								
 				
 
-CUSTOMIZA«√O
-… o processo de modificaÁ„o de um sistema ERP para adequ·-lo as
-situaÁıes empresariais especificas. Deve ser cuidadosamente avaliada,
+CUSTOMIZA√á√ÉO
+√â o processo de modifica√ß√£o de um sistema ERP para adequ√°-lo as
+situa√ß√µes empresariais especificas. Deve ser cuidadosamente avaliada,
 sob risco de se adquirir um ERP e acabar-se tendo um sistema integrado.
 
-CONFIGURA«√O
-… o conjunto total de par‚metros do sistema apÛs a sua definiÁ„o,
-englobando o conjunto das opÁıes de funcionamento das diferentes
-funÁıes de um sistema ERP.
+CONFIGURA√á√ÉO
+√â o conjunto total de par√¢metros do sistema ap√≥s a sua defini√ß√£o,
+englobando o conjunto das op√ß√µes de funcionamento das diferentes
+fun√ß√µes de um sistema ERP.
 
 
-LOCALIZA«√O
-Corresponde ‡ adaptaÁ„o do sistema desenvolvido em um paÌs para
-utilizaÁ„o em outro. Essa adequaÁ„o se faz necess·ria para adequaÁ„o ‡s
-leis e procedimentos comerciais especÌficos locais. Os melhores sistemas
-admitem parametrizaÁ„o de moeda e idioma, por exemplo. Existe o risco
-da localizaÁ„o ser encarada como customizaÁ„o, que representa custos
-altos e riscos de alteraÁıes fortes no sistema.					
-Sistema modular que tem suas raÌzes no MRP (Planejamento de
-Recursos de Materiais) e est· integrado a uma base de dados. S„o
-sistemas integrados que abrangem todas as ·reas da empresa, de forma
-que um ˙nico evento que tenha dado origem ‡ execuÁ„o do processo, seja
-trabalhado pelas ·reas que tenham alguma responsabilidade sobre ele.
+LOCALIZA√á√ÉO
+Corresponde √† adapta√ß√£o do sistema desenvolvido em um pa√≠s para
+utiliza√ß√£o em outro. Essa adequa√ß√£o se faz necess√°ria para adequa√ß√£o √†s
+leis e procedimentos comerciais espec√≠ficos locais. Os melhores sistemas
+admitem parametriza√ß√£o de moeda e idioma, por exemplo. Existe o risco
+da localiza√ß√£o ser encarada como customiza√ß√£o, que representa custos
+altos e riscos de altera√ß√µes fortes no sistema.					
+Sistema modular que tem suas ra√≠zes no MRP (Planejamento de
+Recursos de Materiais) e est√° integrado a uma base de dados. S√£o
+sistemas integrados que abrangem todas as √°reas da empresa, de forma
+que um √∫nico evento que tenha dado origem √† execu√ß√£o do processo, seja
+trabalhado pelas √°reas que tenham alguma responsabilidade sobre ele.
 
