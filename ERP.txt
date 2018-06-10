@@ -3,10 +3,57 @@ A sigla ERP significa “Planejamento de Recursos Empresariais”. Enterprise Re
 Objetivo do ERP é facilitar o fluxo de informações de uma organização para otimizar a de tomada de decisão de uma organização
 contendo processos funcionais que abrange o erp.
 
+MRP - Planejamento das Necessidades de Materiais
+
+permite calcular a quantidade de materiais a partir dos pedidos de venda em carteira.
+
+MRP II Planejamento dos Recursos de Manufatura
+
+calcular e analisar todos os parâmetros que determinam a produção de
+um determinado produto
+
+CARACTERÍSTICAS PRINCIPAIS DO ERP
+
+• Controles Operacionais
+• Transações do dia-a-dia
+• Relatórios Operacionais
+• Dados Integrados
+• Gestão Integrada
+• Otimização de Processos
+
+VANTAGENS ERP
+
+° Para Gerar controle e padronização de processos em sua empresa , como relatorios 
+emissao de notas ficais etc... A empresa economiza tempo e melhora a sua produtividade.
+
+° Visão é redução dos erros , pois o gestor encherga tudo atraves de um SW é consegue ver
+quais partes da empresa estão gerando dando , sendo possivel corrigir muito mais rapido , tendo
+uma tomada de decisão rapida.
+
+° Gestao baseada em processo Permitir que a empresa cresca sem mudar o sistema
+
+DESVANTAGENS COM A IMPLEMENTAÇÃO DO ERP
+
+- Custos elevados com hardware e infraestrura
+- Dificuldade de cumprimento de prazos
+- Complexidade da customização , como o aumento da manutenção
+
+METODOLOGIA DE IMPLANTAÇÃO DE ERP
+
+Decisão e seleção - Pacotes selecionados para o plano de implantação
+Implantação - Modulos costumizados , Usuarios treinados 
+
+PROBLEMAS NA IMPLANTAÇÃO
+
+- Falta de apoio da alta gerência
+- Estouro do escopo
+- Falhas de testes
+- Falta de treinamento
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Financeiro 
 
 - Movimentação das Carteiras de Títulos a Pagar e Receber
-
 
 Contabilidade
 
@@ -17,6 +64,12 @@ Estoque
 
 - Emissão de Solicitação de Compra
 - Movimentação dos itens
+
+PLANEJAMENTO E CONTROLE DA PRODUÇÃO (PCP)
+
+- Geração das Ordens de Produção (através dos Pedidos de Vendas)
+- Acompanhamento da produção
+
 
 Compras
 
@@ -39,29 +92,6 @@ RECURSOS HUMANOS (FOLHA DE PAGAMENTO)
  Controle das horas produtivas e improdutivas
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-CARACTERÍSTICAS PRINCIPAIS DO ERP
-
-• Controles Operacionais
-• Transações do dia-a-dia
-• Relatórios Operacionais
-• Dados Integrados
-• Gestão Integrada
-• Otimização de Processos
-
-
-VANTAGENS ERP
-
-° Para Gerar controle e padronização de processos em sua empresa , como relatorios 
-emissao de notas ficais etc... A empresa economiza tempo e melhora a sua produtividade.
-
-° Visão é redução dos erros , pois o gestor encherga tudo atraves de um SW é consegue ver
-quais partes da empresa estão gerando dando , sendo possivel corrigir muito mais rapido , tendo
-uma tomada de decisão rapida.
-
-° Gestao baseada em processo Permitir que a empresa cresca sem mudar o sistema
-
-
 FUNCIONALIDADE
 Diz respeito as funções que possui, suas particularidades, diferentes
 possibilidades de uso e áreas em que melhor se adapta.
