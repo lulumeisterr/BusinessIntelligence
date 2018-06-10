@@ -1,9 +1,9 @@
-Business Intelligence (BI) -       inteligência empresarial. Isto significa que é um método que visa ajudar as 
+Inteligencia Empresarial :         inteligência empresarial. Isto significa que é um método que visa ajudar as 
 	                           empresas a tomar as decisões inteligentes, mediante dados e informações. E
                                    Necessita que vc tenha um passado , para que você consiga informações para o futuro ,
 			           ou seja ele foi feito para tomada de decisões.
 				
-			     BI - é uma ferramenta que aumentar o valor do seu negocio e generaliza todo um fluxo de trabalho 
+Business Intelligence (BI) -	 BI - é uma ferramenta que aumentar o valor do seu negocio e generaliza todo um fluxo de trabalho 
 			     	   no qual você pode medir a qualidade que tras um relatorio para ter um negocio
 				   inteligente e comparar as vantagens competitivas e ver valor do seu negocio onde
 				   Analisar evidências e todas as tarefas para um bom raciocinio e 
@@ -21,46 +21,25 @@ Business Intelligence (BI) -       inteligência empresarial. Isto significa que
  				  Evitando gastos desnecessarios
 
 
-
-
 FILME - FOME DE PODER
 https://www.significadosbr.com.br/franquia
 
-----------------------------------------------------------------------------------------------------------------------------------------
-						  Aula     16/02/18
-----------------------------------------------------------------------------------------------------------------------------------------
-
- -              Não basta o investimento e nem se vc tiver a ideia OU estiver sem o dinheiro , 
-		é a mesma coisa de você ter toda a infra-estrutura mas
-                não ter o conhecimento , o Poder para fazer o'que deve ser feito.
-
-               ° Um relatorio é informações , graficos , estatisticas que apartir delas dê para fazer tomadas de decisões				
-
-	       ° No BI há uma duplicação de criação de historicos apenas para relatorio , que seja efetivo e rapido
-	
-		Tatica : Ações particulares para se atingir partes do objetivo
-		O que é estrategia ? Visão ampla dos objetivos a serem atingidos
-    
-
-		é ter ponto de partida , mas so acontece quando eu tenho um passado analisado para ter um ponto de partida para recrutar
-		os objeticos especificos e chegar no objetivo final.
-
-					  objetivos especificos de como realizar , 1° rever o'que faz 
-					  objetivo geral , que seria a onde eu quero chegar 
-					  
-
-	       ° Estrategica que as empresas utilização : Elas mesmas se prejudicam para colher algo melhor para o objetivo principal
-							  Persistencia de como chegar , se organizar e planejar para o objetivo principal
-
----------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------		  
 						Gestão estatregica
 
 Gestão estratégica :  é um tempo amplo que abrange os estagios inicias de determinação da missão e os objetivos da organização.
 
-Estratégia está relacionada com a maneira que vamos utilizar para alcançar o alvo desejado, enfim o objetivo. , ou seja
-ela se compõe de muitas taticas simultâneas e integradas entre si.
+º Estratégia é onde você alinha sua mente com o seus objetivos afim de alcançar futuros resultados ou seja Visão ampla dos objetivos a serem atingidos.
 
-Estratégia é onde você alinha sua mente com o seus objetivos afim de alcançar futuros resultados ou seja Visão ampla dos objetivos a serem atingidos.
+° Tatica : A diposição e distruição dos envolvidos pela melhor oportunidade de desenvolvimento afim de alcançar partes dos objetivos.
+
+° O objetivo é o alvo que você quer alcançar. A estratégia será a maneira, caminho a ser percorrido, a fim de alcançar o objetivo.
+Objetivo está relacionado com alvo a ser alcançado , o Objetivo é o destino.
+
+Tatica vs estrategia
+
+As taticas visão resolver os problemas do cotidiano , ou seja elas tem um efeito de curto prazo para ganhar algo
+Estrategia visa sempre o longo prazo , como o crescimento do negocio , permanencia do seus objetivos;
 
 TIPOS DE ESTRATEGIA
 
@@ -68,32 +47,17 @@ LIDERANÇA DE CUSTO - CAPACIDADE DE OFERECER DESCONTOS DE UMA FORMA LUCRATIVA
 DIFERENCIAÇÃO - REALIZADA ATRAVES DAS CARACTERISTICAS DA OFERTA
 SEGMENTAÇÃO - ATUAÇÃO EM NICHOS DE MERCADO
 
-Tatica : A diposição e distruição dos envolvidos pela melhor oportunidade de desenvolvimento afim de alcançar partes dos objetivos.
+PROBLEMAS COM A FORMA TRADICIONAL DE PLANEJAMENTO
+Visão sem foco sem objetivos estratégicos associados e Feedback tático não estratégico. 
 
-O objetivo é o alvo que você quer alcançar. A estratégia será a maneira, caminho a ser percorrido, a fim de alcançar o objetivo.
-Objetivo está relacionado com alvo a ser alcançado , o Objetivo é o destino
+ERROS QUE JAMAIS DEVEM SER COMETIDOS NO PLANEJAMENTO ESTRATÉGICO
 
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-						  PDCA
-
-O Ciclo PDCA ou SDCA, significa Plan, Do, Check, Action (Planejar, Fazer, Verificar e Agir). Esse método tem a função de garantir que a empresa organize seus processos, não importando a sua natureza.
-
-1 - Na primeira etapa ja determinasse o ciclo PDCA , e devem ser estabelicidos os objetivos e as metas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-MRP - Planejamento das Necessidades de Materiais , permite calcular a quantidade de materiais que serão necessários e em que tempo, a partir dos pedidos de venda em carteira 
-
-MRPII - Planejamento dos Recursos de Manufatura -  calcular e analisar de todos os parâmetros que determinam a produção de
-um determinado produto, e verificar os recursos técnicos e humanos disponíveis para o atendimento da produção.
-
-CRM - 
-
-
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+1 - Superestimar suas fraquezas 
+2 - Deixar de monitorar os resultados 
+3 - Elaborar o PE e não praticá-lo
+4 - Ignorar as ameaças de mercado 
+5 - Subestimar a concorrência 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SWOT - Ajuda a definir a sua estratégia e é uma ferramenta utilizada para fazer análise de cenario ou ambiente sendo adotada como 
 planejamento estrategico.
 
@@ -101,7 +65,7 @@ Forças e fraquezeas são relacionados ao ambiente interno da empresa
 
 S - Strengths (Forças) - (pontos Fracos) - Está relacionada às vantagens que sua empresa possui em relação aos concorrentes.
 W - Weaknesses (fraquezas ) - (pontos Fracos) - As fraquezas são as aptidões que interferem ou prejudicam de algum modo o andamento do negócio.
-----------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------
 Oportunidades e ameaças , são de caracter externo que nao dependem da empresa como concorrencia , legislação etc.
 
 O - Opportunities (Oportunidade) -  São forças externas que influenciam positivamente a empresa. Não existe controle sobre essas forças, pois
@@ -109,11 +73,20 @@ elas podem ocorrer de diversas formas.
 
 T - Threads (Ameaças) - As ameaças também podem significar os medos que existem por parte da gestão da empresa.
 
-----------------------------------------------------------------------------------------------------------------------------------------
-A missão , valores e missão é fundamental para o planejamento estratégico da empresa , ou seja as
+---------------------------------------------------------------------------------------------------------------------------------
+							Ciclo PDCÃ
+
+Action - Atuar em função dos resultados
+Plan - Definir as metas e determinar a forma de alcance das metas
+DO -  Educar e treinar , Executar  o planejado
+Check - Verificar os efeitos do trabalho executado
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A missão , valores e visão é fundamental para o planejamento estratégico da empresa , ou seja as
 ações necessarias para que a organização consiga alcamçar o seus objetivos.
 
-Missão - Não pode ser impossivel , ela deve ser a razão de ser do seu negocio , ela liga-se diretamente ao seus objetivos institucionais
+Missão - Não pode ser impossivel , ela deve ser a razão de ser do seu negocio , ela liga-se diretamente ao seus objetivos institucionais. como Solucionar problemas não solucionados de maneira inovadora. ou Promover o bem estar bem.
 
 Visão - é a situação que a empresa deseja chegar em um determinado periodo de tempo , ou seja ela é um conjunto de objetivos a conquistar .
 ou seja deve se realizar a seguinte pergunta , como a sua empresta quer estár a 10 anos 
