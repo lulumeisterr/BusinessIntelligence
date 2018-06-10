@@ -2,6 +2,9 @@ A sigla ERP significa “Planejamento de Recursos Empresariais”. Enterprise Re
 
 Objetivo do ERP é facilitar o fluxo de informações de uma organização para otimizar a de tomada de decisão de uma organização
 contendo processos funcionais que abrange o erp.
+Os sistemas integrados, reúnem os processos de negócios essenciais da empresa em um
+único sistema de software, de maneira que as informações possam fluir livremente por toda a
+organização, melhorando a coordenação , a eficiência e a tomada de decisão.
 
 MRP - Planejamento das Necessidades de Materiais
 
