@@ -1,4 +1,6 @@
-Estrutura de banco de dados OLAP ou seja é um banco de dados não relacional.
+OLTP - > TRANSAÇÕES ONLINES , EXECUTAM AS OPERAÇÕES DO DIA A DIA , ONDE VOCÊ PODE REALIZAR O CRUD
+
+Estrutura de banco de dados OLAP ou seja é um banco de dados não relacional. ELE LE , PROCESSA E JOGA NO REPOSITORIO
 
   Eles possuem uma modelagem logica do DW ou seja Eu represento minhas tabelas como forma matématicas
   facilitando as buscas com mais agilidades.
