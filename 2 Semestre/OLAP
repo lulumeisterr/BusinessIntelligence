@@ -15,3 +15,9 @@ Estrutura de banco de dados OLAP ou seja é um banco de dados não relacional.
   HoLap - Realizam mistos , algumas em uma tabela e outras ele calcula e consolida
   RoLap - Eles pegam todos os dados do DW no momento da consulta , eles guardam somente os relacionamentos logicos , ele guarda em cache
   
+  * Identificar os usuarios 
+  
+    Ad-Hoc : Analises abertar onde você oferece o Olap para ele modificar com as condiçoes dele
+    Analise Padronizadas : Onde há flexibilidade , como ranking para ordenagem feito pelo usuario mas fica um pouco travado com esse metodo
+    Analise costumizadas : Onde há muita automatização para preparar a ferramenta para o usuario , como graficos dashboard etc
+    
