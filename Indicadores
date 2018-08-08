@@ -1,0 +1,14 @@
+
+Indicadores : Indicadores são medições que podem ser feitas e analisadas ou seja quando você
+possui indicadores você consegue estimar o'que você quer analisar e como você quer analisar por uma dimensão por areas geograficas
+
+Documento onde será registrada os indicadores que é Matriz Dimensão X Indicador
+Linhas : Será apliacada meus indicadores
+Dimensão : Como eu quero ver as informaçes Ex : (Cliente,empresa,tempo)
+
+Fact Table ( Tabela de fatos ) - esta relacionada a gravar uma ocorrencia , ou seja quando algo acontece com 
+um determinado indicador
+
+Todos relacionamentos de entidade que se relacionam entre si são chamados de dimensão
+Hierarquia São todos relacionamentos unicos da sua tabela
+Nivel : Entidade basica que se relacionam com as outras ontem conterá os atributos
