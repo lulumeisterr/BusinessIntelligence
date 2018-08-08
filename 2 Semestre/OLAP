@@ -1,0 +1,17 @@
+Estrutura de banco de dados OLAP ou seja é um banco de dados não relacional.
+
+  Eles possuem uma modelagem logica do DW ou seja Eu represento minhas tabelas como forma matématicas
+  facilitando as buscas com mais agilidades.
+  
+  EX : Tabela Tipo produto e Produto e vamos supor que eu tenha um Suco de laranja armazenada na minha tabela produto
+  e o tipo desse produto é Suco , Então seria mais ou menos assim trabalhando com OLAPs.
+  suco = suco de laranja + suco de maçã.
+  
+  * Ter OLAPS para cada assunto especificado , uma parte especifica ex: Vendas , Financeiros etc
+  
+  Tipos de OLAPS :
+  
+  MoLap - Calculam e gravam todos os cruzamentos em disco imaginaveis , prontos para a consulta. o mais rapido para consulta
+  HoLap - Realizam mistos , algumas em uma tabela e outras ele calcula e consolida
+  RoLap - Eles pegam todos os dados do DW no momento da consulta , eles guardam somente os relacionamentos logicos , ele guarda em cache
+  
