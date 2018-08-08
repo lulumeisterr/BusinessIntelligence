@@ -3,7 +3,7 @@ Inteligencia Empresarial :         inteligência empresarial. Isto significa que
                                    Necessita que vc tenha um passado , para que você consiga informações para o futuro ,
 			           ou seja ele foi feito para tomada de decisões.
 				
-Business Intelligence (BI) -	 BI - é uma ferramenta que aumentar o valor do seu negocio e generaliza todo um fluxo de trabalho 
+Business Intelligence (BI) -	 BI - é Transformar dados em informações ou seja é uma ferramenta que aumentar o valor do seu 					 negocio e generaliza todo um fluxo de trabalho 
 			     	   no qual você pode medir a qualidade que tras um relatorio para ter um negocio
 				   inteligente e comparar as vantagens competitivas e ver valor do seu negocio onde
 				   Analisar evidências e todas as tarefas para um bom raciocinio e 
@@ -13,9 +13,10 @@ Business Intelligence (BI) -	 BI - é uma ferramenta que aumentar o valor do seu
 				   area de Tecnologia da Informação.
 
 		
-			         O' que é uma warehouse 
-
-			          Basicamente, é um Sistema de computadores produtivo onde você ganha tempo e dinheiro 
+			         O' que é uma Datawarehouse 
+		
+			          Armazem de dados 
+				  Basicamente, é um Sistema de computadores produtivo onde você ganha tempo e dinheiro 
 			          onde ficam guardadas todas as informações da empresa Nele, 
 				  os executivos podem obter, de modo imediato, respostas para as perguntas.
  				  Evitando gastos desnecessarios
