@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ETL" id="543F0B63-9AC1-AD1F-D70B-36747A9023C0" version="3.5">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-08-29 22:08:43 UTC</createdTime>
+<ownerDesignName>ETL</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>543F0B63-9AC1-AD1F-D70B-36747A9023C0</designId>
+</OSDM_Design>
