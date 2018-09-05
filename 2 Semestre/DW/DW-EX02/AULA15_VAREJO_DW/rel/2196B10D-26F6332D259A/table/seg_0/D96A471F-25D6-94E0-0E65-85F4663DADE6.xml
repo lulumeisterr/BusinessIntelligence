@@ -1,0 +1,100 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D96A471F-25D6-94E0-0E65-85F4663DADE6" name="DIM_TEMPO">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>F5FDC41D-9713-AAAC-9BE9-BBA1D26122A5</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<typeID>2</typeID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SK_TEMPO" id="8F51BEC4-FFAF-C938-89F2-E307BA43D854">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>74D769B7-A094-FAE9-1A9F-C53FE2F7DD9F</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_EVENTO" id="557B2D7C-FFFE-BDFB-4336-7720597AE9DD">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>5D409FF8-690C-5443-5D1F-1C092D5B8EFE</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_DIA" id="EB897A30-2564-E09D-02BD-67073055F6F7">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>CBF9821B-E96C-737D-0A2D-E9748D6FBC99</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<ownDataTypeParameters>,2,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_DIA_SEMANA" id="7CAF7BA7-BCFC-FA54-5370-0F9AA758E2C3">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>BD6C9AAB-BDBB-0283-415A-01A9057FDED4</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_MES" id="67786E6F-083B-6141-F1D8-8467D29872B3">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>8CCBF02B-DF13-1F27-3BFB-8724EB970F61</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<ownDataTypeParameters>,5,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NR_ANO" id="D4C12289-5A24-5FCD-3D6C-1240FA5958DA">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>586DC666-5B44-67E1-1FCD-B7D2FE8238EC</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8CF1A383-3BB8-59CF-233B-B9581B164624" name="DIM_TEMPO_PK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>2E2E53A4-1A19-7A42-5012-4B7E7E102031</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8F51BEC4-FFAF-C938-89F2-E307BA43D854"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

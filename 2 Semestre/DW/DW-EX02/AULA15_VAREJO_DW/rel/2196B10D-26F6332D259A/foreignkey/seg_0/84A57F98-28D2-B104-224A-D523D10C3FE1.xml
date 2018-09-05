@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="84A57F98-28D2-B104-224A-D523D10C3FE1" containerWithKeyObject="0F5D5ADB-B645-41B1-840F-62EF6D021A62" localFKIndex="3D98C833-8FC0-23D9-C0EE-3AD094B2E0D5" name="V_D_VEND_FK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>0B1E0923-B3FF-1F7F-CACE-421C5173BDFC</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<referredTableLongName>DIM_VENDEDOR</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>7618C3B1-BE7F-3332-A263-5248B051D8FF</referredTableID>
+<keyObject>7E34CCF5-6B87-C2F2-823F-26B57881945D</keyObject>
+<referredKeyID>7E34CCF5-6B87-C2F2-823F-26B57881945D</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>SK_VENDEDOR</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

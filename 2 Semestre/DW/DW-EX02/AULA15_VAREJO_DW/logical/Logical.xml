@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="A68FD77B-D3A2-ED46-76F8-7ECF5B1620AE" mainViewID="D0DF5B6C-455F-0CC4-380F-A80B998BD38A">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:41:25 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

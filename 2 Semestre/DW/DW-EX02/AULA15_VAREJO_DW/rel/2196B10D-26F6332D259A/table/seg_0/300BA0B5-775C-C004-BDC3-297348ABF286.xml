@@ -1,0 +1,87 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="300BA0B5-775C-C004-BDC3-297348ABF286" name="DIM_PROMOCAO">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>D8787064-7618-25A0-DF60-A3AD0BB61269</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<typeID>2</typeID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SK_PROMOCAO" id="1AFE2DCF-2164-0982-6484-6B8E325C515A">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>7CA16D64-15BA-4BF9-3506-B2D6FB078ACF</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CD_PROMOCAO" id="D7CDF881-7DDB-00C8-0318-41A0CCC4753D">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>D8C4A576-8B4E-D941-D15B-83DB59A39540</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_PROMOCAO" id="EB4E71D0-CA8B-3FEE-C0BE-5EC40908255F">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>44D1688D-8951-632A-48E1-FE4DBB569925</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_INICIO" id="D8ECAC6A-1E14-C25E-DD42-83F202EF2BFB">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>C669DB9D-EEF7-8190-2BAE-4A6A0B92D863</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="DT_FIM" id="01E4AF68-BE43-1765-DE03-06D96124FB53">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>0EC8E16D-DCC8-3E42-B610-CF2D2A66A8B5</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="8B7DA7F0-F60D-5FEE-7145-8C1D0519C475" name="DIM_PROMOCAO_PK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>F37D7CE1-DBB2-560F-9CA9-956B91A2A8A2</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="1AFE2DCF-2164-0982-6484-6B8E325C515A"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

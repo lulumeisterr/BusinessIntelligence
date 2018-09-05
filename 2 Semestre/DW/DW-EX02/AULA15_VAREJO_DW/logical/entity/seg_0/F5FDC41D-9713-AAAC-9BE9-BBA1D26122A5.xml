@@ -1,0 +1,113 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F5FDC41D-9713-AAAC-9BE9-BBA1D26122A5" name="DIM_TEMPO">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:46:26 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<typeID>2</typeID>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="SK_TEMPO" id="74D769B7-A094-FAE9-1A9F-C53FE2F7DD9F">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:46:26 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+</Attribute>
+<Attribute name="DT_EVENTO" id="5D409FF8-690C-5443-5D1F-1C092D5B8EFE">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:46:26 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NR_DIA" id="CBF9821B-E96C-737D-0A2D-E9748D6FBC99">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:46:26 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>2</dataTypePrecision>
+<ownDataTypeParameters>,2,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NM_DIA_SEMANA" id="BD6C9AAB-BDBB-0283-415A-01A9057FDED4">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:47:23 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>20</dataTypeSize>
+<ownDataTypeParameters>20,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NR_MES" id="8CCBF02B-DF13-1F27-3BFB-8724EB970F61">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:47:43 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<ownDataTypeParameters>,5,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NR_ANO" id="586DC666-5B44-67E1-1FCD-B7D2FE8238EC">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:48:20 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<dataTypePrecision>5</dataTypePrecision>
+<dataTypeScale>2</dataTypeScale>
+<ownDataTypeParameters>,5,2</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="2E2E53A4-1A19-7A42-5012-4B7E7E102031" name="DIM_VENDEDOR PK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:46:26 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>74D769B7-A094-FAE9-1A9F-C53FE2F7DD9F</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

@@ -1,0 +1,97 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="786F4633-6A0D-5371-D3D8-BB3F0D005D1F" name="DIM_PROMOCAOv1">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>9F2463F0-90AC-81B8-5007-01D8B268A80B</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<typeID>2</typeID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SK_LOJA" id="A6025947-BD63-9992-A074-140B0D7AF620">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>5A89743E-8F76-EC7B-80C7-BAEDF31B9587</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CD_LOJA" id="7223A021-99D9-08B9-BF39-C663E7AE887E">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>13BA40CD-4CEE-5072-2CFC-7ADF56E40E8C</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_LOJA" id="C1AF3230-E999-4939-5254-ECF8A47D3520">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>0EEE719B-25E4-19F8-0FB9-DE1A583BA77C</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_ESTADO" id="8488DE05-F0B0-F8C7-D30A-34F33B6E9D54">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>211EE7FC-D266-3D0D-0890-A3793BABC506</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_CIDADE" id="93CAE242-10C8-BCD1-5240-743934C2492D">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>E3ECCFC5-C015-BE7F-F62E-6FCEF4945900</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>35</dataTypeSize>
+<ownDataTypeParameters>35,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_BAIRRO" id="7F09A2C2-061D-C08C-0D6F-7FE1DE1B57D3">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>CE8A5346-13DA-7499-420D-7C08D1496B5D</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>40</dataTypeSize>
+<ownDataTypeParameters>40,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="08D07264-DF01-508A-DA87-E16E8BBAFADE" name="DIM_PROMOCAOv1_PK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>8966CD23-996B-AB13-4AF9-8D71E5E570A2</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A6025947-BD63-9992-A074-140B0D7AF620"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

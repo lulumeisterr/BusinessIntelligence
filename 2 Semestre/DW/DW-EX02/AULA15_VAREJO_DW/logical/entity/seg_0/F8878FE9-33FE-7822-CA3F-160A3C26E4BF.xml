@@ -1,0 +1,85 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F8878FE9-33FE-7822-CA3F-160A3C26E4BF" name="DIM_PRODUTO">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:49:20 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<typeID>2</typeID>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="SK_PRODUTO" id="6E480280-15D1-F6D4-3097-657BFB9EF236">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:50:54 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CD_PRODUTO" id="7F53DDFE-840A-45DA-3E24-A37B397A8D99">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:51:10 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NM_PRODUTO" id="9EF507A1-8BBC-5EC4-D3EF-F46D3BA4EAF3">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:51:33 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NM_EMBALAGEM" id="4AAE264E-5649-AE22-4763-5D4136F03B9B">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:52:10 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="32E49AD6-CA72-41C2-F10D-E370A7867D4A" name="DIM_VENDEDOR_PK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:49:20 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<newElementsIDs>6E480280-15D1-F6D4-3097-657BFB9EF236</newElementsIDs>
+<usedAttributes>
+<attributeRef>6E480280-15D1-F6D4-3097-657BFB9EF236</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

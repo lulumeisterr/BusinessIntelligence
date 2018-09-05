@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="R_PRODUTO_VENDA" directorySegmentName="seg_0" id="0875ACC9-7C88-743B-0CBB-4F940C91BF1D">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 22:56:41 UTC</createdTime>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<engineerTo>
+<item key="2196B10D-3661-27F7-F206-26F6332D259A" value="true"/>
+</engineerTo>
+<sourcePk>32E49AD6-CA72-41C2-F10D-E370A7867D4A</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>F8878FE9-33FE-7822-CA3F-160A3C26E4BF</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>D317CE3F-0733-FFD5-5AD4-B6F66B394E0A</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

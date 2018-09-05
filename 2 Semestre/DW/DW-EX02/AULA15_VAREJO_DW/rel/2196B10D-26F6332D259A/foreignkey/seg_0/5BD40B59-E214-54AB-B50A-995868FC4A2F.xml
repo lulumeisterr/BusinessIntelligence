@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<FKIndexAssociation class="oracle.dbtools.crest.model.design.relational.FKIndexAssociation" directorySegmentName="seg_0" id="5BD40B59-E214-54AB-B50A-995868FC4A2F" containerWithKeyObject="0F5D5ADB-B645-41B1-840F-62EF6D021A62" localFKIndex="E35E37D4-2735-F96C-FD5D-DB940AA85B0B" name="V_D_TEMP_FK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>BF15D94F-57B9-297E-D37C-96F167D6EFBA</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<referredTableLongName>DIM_TEMPO</referredTableLongName>
+<deleteRule>NO ACTION</deleteRule>
+<referredTableID>D96A471F-25D6-94E0-0E65-85F4663DADE6</referredTableID>
+<keyObject>8CF1A383-3BB8-59CF-233B-B9581B164624</keyObject>
+<referredKeyID>8CF1A383-3BB8-59CF-233B-B9581B164624</referredKeyID>
+<mandatory>true</mandatory>
+<refColNames>SK_TEMPO</refColNames>
+<transferable>true</transferable>
+<rely>false</rely>
+<columnDependencyConstraintGenerateInDDL>true</columnDependencyConstraintGenerateInDDL>
+</FKIndexAssociation>

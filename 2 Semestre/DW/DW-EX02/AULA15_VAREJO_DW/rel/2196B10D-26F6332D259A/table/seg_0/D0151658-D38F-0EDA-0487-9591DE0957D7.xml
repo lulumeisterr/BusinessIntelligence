@@ -1,0 +1,73 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D0151658-D38F-0EDA-0487-9591DE0957D7" name="DIM_PRODUTO">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>F8878FE9-33FE-7822-CA3F-160A3C26E4BF</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<typeID>2</typeID>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="SK_PRODUTO" id="C1B46AC7-1F78-B74E-AB0F-349DB13C3D32">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>6E480280-15D1-F6D4-3097-657BFB9EF236</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CD_PRODUTO" id="F565DF61-99BF-1412-AED7-4687A0D50675">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>7F53DDFE-840A-45DA-3E24-A37B397A8D99</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_PRODUTO" id="1730EE78-38DD-708D-4BFB-FD1CEC8299BD">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>9EF507A1-8BBC-5EC4-D3EF-F46D3BA4EAF3</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>50</dataTypeSize>
+<ownDataTypeParameters>50,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="NM_EMBALAGEM" id="CAF41C81-3FEB-2A23-ADB4-49E1D416D771">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>4AAE264E-5649-AE22-4763-5D4136F03B9B</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT024</logicalDatatype>
+<dataTypeSize>15</dataTypeSize>
+<ownDataTypeParameters>15,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="AEB72933-EE55-D323-02ED-DA84BC5F6CF5" name="DIM_PRODUTO_PK">
+<createdBy>logonrmlocal</createdBy>
+<createdTime>2018-09-05 23:33:55 UTC</createdTime>
+<generatorID>32E49AD6-CA72-41C2-F10D-E370A7867D4A</generatorID>
+<ownerDesignName>AULA15_VAREJO_DW</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="C1B46AC7-1F78-B74E-AB0F-349DB13C3D32"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>
